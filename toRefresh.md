@@ -4,4 +4,5 @@ As you work through this exercise, write down anything that you needed to look u
 
 Looked up how float number is being defined.
 Looked up how to iterate through a string using a for each loop.
+Looked up how to iterate trhoug a HashMap using a for each loop.
 - 
